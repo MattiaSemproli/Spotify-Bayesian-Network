@@ -5,6 +5,7 @@ query*.png
 markov_blanket_*.png
 structure_learning_comparison.png
 structure_comparison.png
+approx_inference_convergence.png
 processed_spotify*.csv
  
 # LaTeX build artifacts
