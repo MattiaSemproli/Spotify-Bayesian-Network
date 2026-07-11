@@ -27,4 +27,7 @@ faikr-venv/
 # OS junk
 .DS_Store
 Thumbs.db
- 
+
+# Folder to save files at different point during development. 
+# Useful to restore a file to a previous state.
+checkpoints/
